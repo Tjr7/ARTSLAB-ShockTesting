@@ -1,0 +1,23 @@
+LabVIEW Measurement,
+Writer_Version,2
+Reader_Version,2
+Separator,Comma
+Decimal_Separator,.
+Multi_Headings,No
+X_Columns,One
+Time_Pref,Absolute
+Operator,localuser
+Date,2022/11/14
+Time,11:04:32.2368497848510742188
+***End_of_Header***,
+,
+Channels,2,,
+Samples,1,1,
+Date,2022/11/14,2022/11/14,
+Time,11:04:32.2368497848510742188,11:04:32.2368497848510742188,
+X_Dimension,Time,Time,
+X0,0.0000000000000000E+0,0.0000000000000000E+0,
+Delta_X,1.000000,1.000000,
+***End_of_Header***,,,
+X_Value,Untitled,Untitled 1,Comment
+0.000000,4.978274,4.990751
